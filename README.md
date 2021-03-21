@@ -126,7 +126,7 @@ Use this URL in your browser to start the demo.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/robhagopian/stripe-payments-demo/tree/main)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/robhagopian/stripe-payments-demo/tree/master)
 
 ## Credits
 
