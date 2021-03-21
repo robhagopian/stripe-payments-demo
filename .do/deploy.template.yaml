@@ -1,7 +1,7 @@
 spec:
  name: stripe-payments-demo
  services:
-  name: stripe-payments-demo
+  name: sample-python
   - environment_slug: python
   git:
     branch: master
