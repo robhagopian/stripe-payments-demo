@@ -1,11 +1,11 @@
 spec:
- name: stripe-payments-demo
- services:
-  name: stripe-payments-demo2
-  - environment_slug: python
-  git:
-    branch: master
-    deploy_on_push: true
-    repo: robhagopian/stripe-payments-demo
+  name: stripe-payments-demo
+  services:
+  - name: stripe-payments-demo2
+    environment_slug: python
+    git:
+      branch: master
+      deploy_on_push: true
+      repo: robhagopian/stripe-payments-demo
   databases:
   - name: example-db
