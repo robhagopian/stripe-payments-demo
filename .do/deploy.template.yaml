@@ -5,6 +5,6 @@ spec:
     environment_slug: python
     git:
       branch: master
-      repo: robhagopian/stripe-payments-demo
+      repo_clone_url: https://github.com/robhagopian/stripe-payments-demo
   databases:
   - name: example-db
